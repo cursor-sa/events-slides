@@ -1,7 +1,7 @@
 ---
-title: ""
+title: "Cursor Riyadh Meetup - December 2025"
 info: |
-   "Cursor Riyadh Workshop - December 2025"
+   "Cursor Riyadh Meetup (Dec 25, 2025) - Contributing to Open Source with Cursor"
 class: bg-[#0F0F0F] text-white
 mdc: true
 theme: default
